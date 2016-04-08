@@ -35,7 +35,7 @@ svg {
   stroke-dasharray: 0, 480;
 }
 
-is-engaged .engage path {
+.is-engaged .engage path {
   fill: #f60;
   transition: all .5s ease;
 }
